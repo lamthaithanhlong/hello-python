@@ -27,6 +27,8 @@ from bai26 import bai26
 from bai27 import bai27
 from bai28 import bai28
 from bai29 import bai29
+from bai30 import bai30
+
 # print(bai1(10))
 # print(bai2(5))
 # print(bai3(3))
@@ -55,4 +57,5 @@ from bai29 import bai29
 # print(bai26(6))
 # print(bai27(6))
 # print(bai28(6))
-print(bai29(100))
+# print(bai29(100))
+print(bai30(6))
